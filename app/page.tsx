@@ -447,8 +447,8 @@ function TiltProject({
 function Contact() {
   const links = useMemo(
     () => [
-      { label: "GitHub", href: "https://github.com/", icon: Github },
-      { label: "Email", href: "mailto:hello@vishfolio.dev", icon: Mail },
+      { label: "GitHub", href: "https://github.com/clemmie2", icon: Github },
+      { label: "Email", href: "clemmons066@gmail.com", icon: Mail },
       { label: "Discord / X", href: "https://x.com/", icon: MessageCircle }
     ],
     []
