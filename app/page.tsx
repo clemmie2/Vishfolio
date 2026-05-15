@@ -21,11 +21,11 @@ const navItems = ["About", "Skills", "Projects", "Contact"];
 const technologies = [
   "Next.js",
   "React",
-  "Tailwind",
+  "Discord Bot",
   "TypeScript",
   "Three.js",
   "MongoDB",
-  "Framer Motion",
+  "Assistance",
   "GSAP"
 ];
 
