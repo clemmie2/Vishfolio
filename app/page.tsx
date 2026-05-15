@@ -178,7 +178,7 @@ function Shell() {
       <div className="fixed inset-x-0 top-0 z-40 border-b border-white/10 bg-ink/55 backdrop-blur-2xl">
         <nav className="mx-auto flex h-16 w-[min(1120px,calc(100%-40px))] items-center justify-between">
           <a href="#hero" className="font-mono text-sm text-silver">
-            Vishfolio
+            Louviere Portfolio
           </a>
           <div className="hidden items-center gap-1 rounded-full border border-white/10 bg-white/[0.04] p-1 md:flex">
             {navItems.map((item) => (
