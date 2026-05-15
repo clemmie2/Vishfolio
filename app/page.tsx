@@ -449,7 +449,7 @@ function Contact() {
     () => [
       { label: "GitHub", href: "https://github.com/clemmie2", icon: Github },
       { label: "Email", href: "clemmons066@gmail.com", icon: Mail },
-      { label: "Discord / X", href: "https://x.com/", icon: MessageCircle }
+      { label: "Discord Server", href: "https://discord.gg/U5DU2fBkxQ", icon: MessageCircle }
     ],
     []
   );
